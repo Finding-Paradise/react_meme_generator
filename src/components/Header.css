@@ -1,0 +1,21 @@
+.header {
+    width: 100%;
+    height: 65px;
+    background: linear-gradient(90deg, #672280 1.18%, #A626D3 100%);
+    display: flex;
+    align-items: center;
+    color: #fff;
+    font-family: var(--text-font);
+}
+
+.header > img {
+    margin-left: 20px;
+    margin-right: 7px;
+}
+
+.header > p {
+    margin-left: auto;
+    margin-right: 20px;
+    font-size: small;
+    font-weight: 600;
+}
